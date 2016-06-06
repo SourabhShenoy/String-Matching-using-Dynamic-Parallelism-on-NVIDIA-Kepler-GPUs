@@ -1,0 +1,35 @@
+SharedBF.cu(157): error: expression must have a constant value
+
+SharedBF.cu(157): error: no instance of function template "strmatch" matches the argument list
+            argument types are: (char *, char *, size_t, size_t, int *)
+
+2 errors detected in the compilation of "/tmp/tmpxft_000029d6_00000000-9_SharedBF.cpp1.ii".
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+CUDA error at SharedBF.cu:141 code=11(cudaErrorInvalidValue) "cudaMemcpyToSymbol(d_stringPattern, subString, sizeof(char)*(strlen(subString)))" 
+slurmstepd: *** JOB 2785 ON leopard CANCELLED AT 2016-04-07T12:24:50 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: got SIGCONT
+srun: forcing job termination
+slurmstepd: *** STEP 2785.36 ON leopard CANCELLED AT 2016-04-07T12:24:50 ***

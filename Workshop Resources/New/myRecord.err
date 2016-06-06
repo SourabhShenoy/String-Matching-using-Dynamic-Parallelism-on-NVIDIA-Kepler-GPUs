@@ -1,0 +1,4 @@
+MultiGPU.cu:30:30: fatal error: helper_functions.h: No such file or directory
+ #include <helper_functions.h>
+                              ^
+compilation terminated.
